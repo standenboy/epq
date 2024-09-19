@@ -1,0 +1,36 @@
+* topics (17/09/24)
+- opensource vs propritory licenses
+- software licenses and their ethics
+- exploring software licenses
+- to what extent do software licenses effect the software
+- to what extent do software licenses change the development of software 
+- how do software licenses effect the distribution of software 
+
+* links (17/09/24)
+** licenses (17/09/24)
+*** open (17/09/24)
+- MIT [https://opensource.org/license/MIT]
+restriction free, or there abouts, it makes the developers non liable for any damaged caused because of the software
+- GPL V3 [https://www.gnu.org/licenses/gpl-3.0.en.html]
+all about keeping the users freedom, by forcing software licensed with it to remain in an opensource form, meaning it cannot
+be relice
+- GPL V2 [https://opensource.org/license/gpl-2-0]
+- LGPL V3 [https://www.gnu.org/licenses/lgpl-3.0.en.html]
+- LGPL V2.1 [https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html]
+- AGPL V3 [https://www.gnu.org/licenses/agpl-3.0.en.html]
+- BSD 3 clause [https://opensource.org/license/BSD-3-clause]
+- BSD 2 clause [https://opensource.org/license/bsd-2-clause]
+- BSD 4 clause [https://choosealicense.com/licenses/bsd-4-clause/]
+*** propritery (17/09/24)
+- AFPL [https://web.mit.edu/ghostscript/www/Public.htm#fulltext]
+- CC by nc [https://creativecommons.org/licenses/by-nc/4.0/]
+- traditional copyright [see your countrys laws for more]
+- MicroSoft software license [https://support.microsoft.com/en-us/windows/microsoft-software-license-terms-e26eedad-97a2-5250-2670-aad156b654bd]
+- apple licenses [https://www.apple.com/legal/sla/]
+- google corporate license [https://cla.developers.google.com/about/google-corporate]
+*** no license
+- nothing to see here
+
+* notes (17/09/24)
+there doesn't seem to be many general use propritory licenses, most programs get their own licence, look into large companys
+IE apple, microsoft google

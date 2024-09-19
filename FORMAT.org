@@ -1,0 +1,11 @@
+* write all notes and diary in org mode
+* manage all notes with git, write useful commits
+  a useful commit can become part of the diary
+* in all notes, reasearch and diary date each title
+  if the same file is edited multiple days add the other dates to the title
+* file structure
+  research goes in /notes/reasearch
+  diary goes in /notes/diary
+  names go, number, title, org
+  the number should be 1 + the previous 
+  the title should say what the main bit of the document says
