@@ -1,0 +1,21 @@
+* overview (19/09/24)
+  this document is to serve as an information dump for the first and second sessions of work done in 
+  class, this will be a short list of people and things that can be looked into, with links to which
+  files they are in.
+* people (19/09/24)
+  - richard stallman: started the free software movment (1.links.org)
+  - edward snowden: NSA leaker and privacy expert (1.links.org)
+  - larry wall: creater of perl and notable player in opensource space (1.links.org)
+  - linus torvalds: creator of linux and notable player in opensource space (1.links.org)
+  - lawence lessig: prof. of law, big player in the idea of free use (1.links.org)
+* papers (19/09/24)
+  - richard stallman papers (1.links.org)
+  - nicolas jullien papers comparing free vs nonfree software (1.links.org)
+* first class sources (software licenses) (19/09/24)
+  - GPL (1.links.org)
+  - AGPL (1.links.org)
+  - LGPL (1.links.org)
+  - BSD (1.links.org)
+  - MIT (1.links.org)
+* topics
+  - see (1.topics.org)

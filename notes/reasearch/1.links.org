@@ -1,36 +1,50 @@
-* topics (17/09/24)
-- opensource vs propritory licenses
-- software licenses and their ethics
-- exploring software licenses
-- to what extent do software licenses effect the software
-- to what extent do software licenses change the development of software 
-- how do software licenses effect the distribution of software 
-
-* links (17/09/24)
-** licenses (17/09/24)
-*** open (17/09/24)
-- MIT [https://opensource.org/license/MIT]
-restriction free, or there abouts, it makes the developers non liable for any damaged caused because of the software
-- GPL V3 [https://www.gnu.org/licenses/gpl-3.0.en.html]
-all about keeping the users freedom, by forcing software licensed with it to remain in an opensource form, meaning it cannot
-be relice
-- GPL V2 [https://opensource.org/license/gpl-2-0]
-- LGPL V3 [https://www.gnu.org/licenses/lgpl-3.0.en.html]
-- LGPL V2.1 [https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html]
-- AGPL V3 [https://www.gnu.org/licenses/agpl-3.0.en.html]
-- BSD 3 clause [https://opensource.org/license/BSD-3-clause]
-- BSD 2 clause [https://opensource.org/license/bsd-2-clause]
-- BSD 4 clause [https://choosealicense.com/licenses/bsd-4-clause/]
+* links (17/09/24) (19/09/24)
+** papers and people (19/09/24)
+*** very helpful (19/09/24)
+    - a colection of all or richard stallmans paper's [https://www.gnu.org/philosophy/fsfs/rms-essays.pdf] (first published in 2002, updated 2004)
+    - a paper written by Nicolas Jullien (prof. at IMT) comparing and contrasting open vs proprietary software [https://www.researchgate.net/publication/2559454_Open-Source_vs_Proprietary_Software]
+*** rather helpful (19/09/24)
+    - lawrence lessig is a researcher of law and political acitavist who has been tied with open/free software 
+      for a long time, he is the editor of the stallman papers [https://en.wikipedia.org/wiki/Lawrence_Lessig]
+    - larry wall, he is the designer of the perl language, and is pretty influental in the open soures space,
+      he has done work with UC berkeley. [https://en.wikipedia.org/wiki/Larry_Wall]
+*** of minor note (19/09/24)
+    - edward snowden, leaked NSA documents, while note about the licneses very much about keeping things open and avalible,
+      a paper writen on the effects of his actions can be seen here [https://www.researchgate.net/publication/275019554_The_Consequences_of_Edward_Snowden_NSA_Related_Information_Disclosures]
+** licenses (17/09/24) (19/09/24)
+*** open (17/09/24) (19/09/24)
+    - MIT [https://opensource.org/license/MIT]
+    restriction free, or there abouts, it makes the developers non liable for any damaged caused because of the software
+    - GPL V3 [https://www.gnu.org/licenses/gpl-3.0.en.html]
+    all about keeping the users freedom, by forcing software licensed with it to remain in an opensource form, meaning it cannot
+    be relicensed
+    - GPL V2 [https://opensource.org/license/gpl-2-0]
+    much the same as the GPL V3 but it can have a few differences specifically towards internationalization
+    DRM and patents.
+    it is often seen as controversal however due to some of its changes a video of linus talking about it
+    can be found here [https://www.youtube.com/watch?v=PaKIZ7gJlRU]
+    - LGPL V3 [https://www.gnu.org/licenses/lgpl-3.0.en.html]
+    the LGPL is like the name says it is a lesser version of the GPL, it can be relicensed under any license
+    it can be used as a smaller part of nonfree software unlike the GPL
+    can require nonfree software as a dependacy.
+    - LGPL V2.1 [https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html]
+    much the same as the V3 but without the changes to patents and other things like that
+    for ideas on the 2.1 vs 3 its much the same as GPL V2 to V3
+    - AGPL V3 [https://www.gnu.org/licenses/agpl-3.0.en.html]
+    the AGPL provides much the same as the GPL however it has an added clause for servers/networked machines
+    if a fork of an AGPL project pushes an update to its users, it must be made avalible in source form
+    for both anyone. EXAMPLE, ive made a mesaging app under AGPL, another person forks it and adds 
+    the ability to send images, they must make the code relvent to that open and avalible to avoid 
+    my project becoming obsolete
+    - BSD 3 clause [https://opensource.org/license/BSD-3-clause]
+    - BSD 2 clause [https://opensource.org/license/bsd-2-clause]
+    - BSD 4 clause [https://choosealicense.com/licenses/bsd-4-clause/]
 *** propritery (17/09/24)
-- AFPL [https://web.mit.edu/ghostscript/www/Public.htm#fulltext]
-- CC by nc [https://creativecommons.org/licenses/by-nc/4.0/]
-- traditional copyright [see your countrys laws for more]
-- MicroSoft software license [https://support.microsoft.com/en-us/windows/microsoft-software-license-terms-e26eedad-97a2-5250-2670-aad156b654bd]
-- apple licenses [https://www.apple.com/legal/sla/]
-- google corporate license [https://cla.developers.google.com/about/google-corporate]
+    - AFPL [https://web.mit.edu/ghostscript/www/Public.htm#fulltext]
+    - CC by nc [https://creativecommons.org/licenses/by-nc/4.0/]
+    - traditional copyright [see your countrys laws for more]
+    - MicroSoft software license [https://support.microsoft.com/en-us/windows/microsoft-software-license-terms-e26eedad-97a2-5250-2670-aad156b654bd]
+    - apple licenses [https://www.apple.com/legal/sla/]
+    - google corporate license [https://cla.developers.google.com/about/google-corporate]
 *** no license
-- nothing to see here
-
-* notes (17/09/24)
-there doesn't seem to be many general use propritory licenses, most programs get their own licence, look into large companys
-IE apple, microsoft google
+    - some projects are under no license which is a similar effect to open source licences

@@ -1,0 +1,11 @@
+* topics (17/09/24) (19/09/24)
+  - opensource vs propritory licenses
+  - software licenses and their ethics
+  - exploring software licenses
+  - to what extent do software licenses effect the software
+  - to what extent do software licenses change the development of software 
+  - how do software licenses effect the distribution of software 
+  - what makes a software license liked by users and developers, how does it contrast
+  - open source software and its ties to unix over time
+  - how has opensource influenced the development of software over time
+  - why is opensource still a neiche topic when privacy is such a common fact
