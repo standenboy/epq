@@ -1,0 +1,60 @@
+* logs (24/9/24)
+  - somewhere on vista we have an electronic log book, which we need to fill in.
+  - as always cheating is banned, and you need to sign for it
+  - you need to state any help you've recived
+  - you must say every bit of information otherwise you need to say and you will be hit for it
+  - the electronic thing is pretty easy looking, just tick boxes and signing that i havent cheated
+  - anything that sir says should go into the electronic notes
+  - things need to be my own idea's so if sir gives me ideas i should reword it to make it mine
+  - once ive gotten a main idea, i need to add that to the log
+  - say why my epq is relevent to my uni stuff
+  - all of this stuff can be copied from git log and my org notes
+  - 
+
+* former epqs (24/9/24)
+** what i read
+*** to what extend can our physical health affect or be affected by our mental health
+    - this got 38/50 marks, so was most likely a B grade
+    - this person took a long time to decide on a final topic and regrets this
+    - the topic lead to some intrestsing areas, about how mental health effects our bodys and vice 
+      versa, i liked the contrast in it, perhaps i could contrast licenses like this.
+    - THEY SPOKE ABOUT SERIAL KILLERS, they clearly wanted to get it in somewhere
+    - referencing is starting to make sense, put a number next to something and at then end, the 
+      place where you got that info (need to learn more about different methods and how to do
+      them in latex)
+    - they didn't use all their references, the first one in the paper was no. 13, lots of here 
+      sources are just websites and she still got a good grade with this, i should look further 
+      for information
+*** how should we teach consent to children of ages 7-11 and why is it important
+    - like the other one it also got 38 marks, so probably a B grade
+    - the artical was of intrest, i noticed it had less references for the same mark,
+      lots of the references where from news sources (also one of the links was just a local file)
+    - as if it wasn't obvious, less good dconttent is better than more bad content
+** take aways from these
+   - the main things that i wanted to learn from these was about references, both of these articals
+     did references the same way, putting numbers next to the section they got from somewhere and 
+     putting an index at the end. another thing of note with their references was that they don't
+     all need to be reasearch papers, although that is definatly preferable, a news artical or a
+     blog, or poll or even a youtube video can be a good reference if the information is good and
+     relevent.
+
+
+* AO's (24/9/24)
+** AO1 
+   - is managment of the project (10) 
+   - managing my time
+** AO2 
+   - is use of reasorces (10)
+   - using my notes, found papers, etc...
+** A03 
+   - is develop and realising (20)
+   - the actual writup
+** A04 
+   - is for review (10)
+   - my notes/diary
+** marks
+   - it is marked out of 50, 45 is an A*, 40 is A
+
+* general notes from sirs talk (24/09/24)
+  - i dont have to follow sir's advice, but anything he says is to help me
+  - anything that sir says should go into the electronic notes
