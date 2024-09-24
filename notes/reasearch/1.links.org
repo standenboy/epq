@@ -1,8 +1,10 @@
 * links (17/09/24) (19/09/24)
 ** papers and people (19/09/24)
-*** very helpful (19/09/24)
+*** very helpful (19/09/24) (24/09/24)
     - a colection of all or richard stallmans paper's [https://www.gnu.org/philosophy/fsfs/rms-essays.pdf] (first published in 2002, updated 2004)
     - a paper written by Nicolas Jullien (prof. at IMT) comparing and contrasting open vs proprietary software [https://www.researchgate.net/publication/2559454_Open-Source_vs_Proprietary_Software]
+    - the gnu manifesto [https://www.gnu.org/gnu/manifesto.html] the start of the moddern free software movement, the first time the terms was 
+      properly used
 *** rather helpful (19/09/24)
     - lawrence lessig is a researcher of law and political acitavist who has been tied with open/free software 
       for a long time, he is the editor of the stallman papers [https://en.wikipedia.org/wiki/Lawrence_Lessig]
@@ -48,3 +50,13 @@
     - google corporate license [https://cla.developers.google.com/about/google-corporate]
 *** no license
     - some projects are under no license which is a similar effect to open source licences
+
+** news storys and intresting events
+   - an open letter to hobbyist [https://en.wikipedia.org/wiki/An_Open_Letter_to_Hobbyists], this 
+     letter from bill gates to open source software developers, complain in simple terms.
+     the letter was mostly in reference to people pirating copys of basic
+     it claims that no one has the time to develope software and distribute for free, and anyone 
+     who isnt paying for their software is a theif. the reaction of this was software went to 
+     a new licensing format (which we still use today) of pre paid licenses when the hardware 
+     is brought. although never directly said, in the marketing for the apple 1, it was a key
+     selling point, that its version of basic was free.
