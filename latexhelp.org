@@ -1,0 +1,6 @@
+* formatting
+  - keep it simple stupid 
+  - nothing complicated, focus or reading
+* references
+  - use biblatex [https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX], see the
+    first section of this link for how to set up a simple bibliography, doesnt need to be crazy
