@@ -1,0 +1,7 @@
+* sir's talk (26/09/24)
+  - today we will go through in groups over our ideas
+  - we have been given a template for sources we have found, i wont be using this though as i have my
+    org mode notes
+* todays plan
+  - today im going to take my links and information dump and make it into an evaluated list which gives
+    overviews of what they are
