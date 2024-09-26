@@ -1,0 +1,62 @@
+* papers (26/09/24)
+** RMS's papers [https://www.gnu.org/philosophy/fsfs/rms-essays.pdf] [2002, updated 2004]
+   - this paper is actually a list of many papers, the ones of note however can be found on page 
+     17 (the GNU project), 44 (the defintion of free software), 57 (why free software is better than
+     open source), 91 (what is copy left), 121 (why software should be free)
+   - an individual writup on these papers can be found bellow
+   - the GNU manifesto can also be found here but will be covered individually
+   - these have all been fact checked and by countless individuals, the entire thing was edited by 
+     lawrence lessig (Prof of Law, Stranford law school)
+*** The GNU project [1999]
+    - a brief history of GNU
+    - started in the MIT AI lab in 1971
+    - the MIT AI lab broke down in the early 80's
+    - the AI lab had gotten a new system (PDP-10), which had made much of the previous work
+      unusable 
+    - the new system was full of non-free software that was different to what they were used to
+    - these new systems made the idea of sharing software forbiden, which was completly different
+      from how it had been before
+    - many of the engineers from the AI lab where put into a new company called symbolics
+    - RMS continued the workd of the AI lab when he started GNU in 1984
+
+*** The definition of free-software [1996]
+    - free software must follow 4 key values to be free
+    - [ ] the freedom to run a program for any use case
+    - [ ] the freedom to study how a program works and to addapt it to your needs
+    - [ ] the freedom to redistribute the program
+    - [ ] the freedom to edit and rerelease the program
+    - for software to stay free, these freedoms must be irevokable
+    - free software doesn't mean non-comercial, but the two often go hand in hand
+*** Why free software is better than opensource [1998]
+    - this paper claims that opensource's goal is all about convients and ease of use, not
+      the ethical arguments that the free software movment pushes for
+    - the two movements are very closely linked
+    - the free software movement does not want to be linked with the opensource movement as the 
+      core values are different 
+    - the opensource movement is more permisive, not needing software to stay open and other such
+      things, this means that opensource lisences do not meet the criteria for free software
+      (see above for specific definiton)
+    - just because the movements are different doesn't mean that a specific member of one disagrees
+      with the other
+    - in the modern age the two are used interchanably, as most open source software is licensed
+      under the GPL which means it is also free software
+
+*** What is Copyleft [1996]
+    - in its simple form, it just means releasing software as public domain, much like what happens
+      to copyright content after 70 years, execpt it skips the 70 year wait. this method works
+      however it has the error, this software can be redistributed as non-free software by a 
+      company who need the functionality
+    - to make something copyleft, it needs to marked as copyright then have distribution terms 
+      added to it, this can make it so it is in the public domain in the legal sense
+    - the rest of this document goes over much the same as the previous ones, discussing at how
+      the versions of the GPL are copyleft
+    - the main thing of copyleft is that it is a counter to copyright, it is designed to be anti-
+      ownership, and easy to add too and share
+
+*** why software should be free [1992]
+    - proproses a counter argument to the idea that software is made to maximise profits, that 
+      software should be made to better the public and the users
+    - proproses that the 'current system' would be best going and moving to putting the users first
+    - it talks about how non free software is a time and money investment for nothing; its harder 
+      to work with, its more work to add to, it puts you at someone elses mercy
+    - a non-free program has lots of reasons not to use it
