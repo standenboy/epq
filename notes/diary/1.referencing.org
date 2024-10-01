@@ -1,0 +1,25 @@
+* notes from sir's talk on referencing (1/10/24)
+  - do background checks on the writer
+  - the main reference systems is harvard and vancouver
+** vancouver 
+   for science and computer sci (ME!)
+   i should use this, as my topic is about computer science and it is what latex uses
+   this is what im used to reading
+   CONVENTION
+   the final reference list should look like this
+   most import name to least important name (dont list everyone, just the first 3 then say "et al")
+   then the year of publication
+   the title of the document
+   the name of the publication
+   say the edition and volume
+   then the page number
+
+   if my source doesn't have something from that list, just skip it
+
+   the reference list doesn't count towards my word count
+
+   latex can handle this for me
+
+** harvard
+   for everything else
+   not needed for me
