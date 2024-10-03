@@ -69,3 +69,4 @@
      free software will mean that computers are not just functional, but state of the art and 
      always moving forward (personal note, they did, the gnu+linux system is very robust, cant be 
      beat)
+

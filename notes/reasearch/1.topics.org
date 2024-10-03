@@ -9,3 +9,5 @@
   - open source software and its ties to unix over time
   - how has opensource influenced the development of software over time
   - why is opensource still a neiche topic when privacy is such a common fact
+
+  - how using free software leads to becoming better developer (VERY GOOD IDEA)
