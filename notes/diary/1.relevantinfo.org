@@ -1,0 +1,10 @@
+* notes on sir's talk on note relvancy
+  - you need to stay on topic when reasearching, its easy to stray 
+  - to fix this, have a solid idea of what i'm researching
+  - headings are not always recomended, but in my field they are helpful
+  - try and have a word count for each section, as it will make it easier to get blocks done
+  - don't over invest in over planning (ie making org mode files too much)
+  - skim articals before reading through them fully, it will save so much time
+  - an abstract can be referenced, helpful for skimming ^
+  - cut all un-needed material
+  - 

@@ -11,3 +11,4 @@
   - why is opensource still a neiche topic when privacy is such a common fact
 
   - how using free software leads to becoming better developer (VERY GOOD IDEA)
+  - why FOSS software is prefered in the developement and privacy space
