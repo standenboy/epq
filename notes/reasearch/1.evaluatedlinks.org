@@ -69,4 +69,11 @@
      free software will mean that computers are not just functional, but state of the art and 
      always moving forward (personal note, they did, the gnu+linux system is very robust, cant be 
      beat)
+** The free software alternative
+   - written by someone who has benifted from free software
+   - it shows how even in some of the early days of personal computers, free software/freeware was 
+     filling in many blanks that MS-dos could not provide, in this case an ascii table
+   - talks about switching to to freeware programs saved money and time (up to 88%!)
+   - the paper does cover more however not much is of any relancy to the topic
 
+** 
