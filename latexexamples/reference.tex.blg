@@ -1,5 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'reference.tex.blg'
-[172] biber:340> INFO - === Tue Oct  1, 2024, 10:08:11
-[300] Utils.pm:410> ERROR - Cannot find 'reference.tex.bcf'!
-[300] Biber.pm:136> INFO - ERRORS: 1

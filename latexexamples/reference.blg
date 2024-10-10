@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'reference.blg'
-[173] biber:340> INFO - === Tue Oct  1, 2024, 10:15:08
-[202] Biber.pm:419> INFO - Reading 'reference.bcf'
-[345] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
-[379] Biber.pm:4419> INFO - Processing section 0
-[399] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
-[400] bibtex.pm:1713> INFO - LaTeX decoding ...
-[405] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
-[475] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[475] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[475] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[475] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[478] bbl.pm:660> INFO - Writing 'reference.bbl' with encoding 'UTF-8'
-[479] bbl.pm:763> INFO - Output to reference.bbl
+[189] biber:340> INFO - === Thu Oct 10, 2024, 09:59:43
+[221] Biber.pm:419> INFO - Reading 'reference.bcf'
+[361] Biber.pm:979> INFO - Found 1 citekeys in bib section 0
+[396] Biber.pm:4419> INFO - Processing section 0
+[417] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
+[419] bibtex.pm:1713> INFO - LaTeX decoding ...
+[423] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[495] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[495] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[495] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[498] bbl.pm:660> INFO - Writing 'reference.bbl' with encoding 'UTF-8'
+[499] bbl.pm:763> INFO - Output to reference.bbl
