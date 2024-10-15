@@ -21,10 +21,10 @@
 
 *** The definition of free-software [1996]
     - free software must follow 4 key values to be free
-    - [ ] the freedom to run a program for any use case
-    - [ ] the freedom to study how a program works and to addapt it to your needs
-    - [ ] the freedom to redistribute the program
-    - [ ] the freedom to edit and rerelease the program
+    - [x] the freedom to run a program for any use case
+    - [x] the freedom to study how a program works and to addapt it to your needs
+    - [x] the freedom to redistribute the program
+    - [x] the freedom to edit and rerelease the program
     - for software to stay free, these freedoms must be irevokable
     - free software doesn't mean non-comercial, but the two often go hand in hand
 *** Why free software is better than opensource [1998]
@@ -62,10 +62,10 @@
     - a non-free program has lots of reasons not to use it
 
 ** The GNU maifesto [1984]
-   - the question why do people want to help (pp40) makes an intresting point that programmers are
+   - the question why do people want to help (P40) makes an intresting point that programmers are
      unhappy with the corprate world entering their hobby, it states that programmers were 
      irritated by the direction software was moving towards
-   - the question why all computer users will benifit (pp42) also makes an intresting point that 
+   - the question why all computer users will benifit (P42) also makes an intresting point that 
      free software will mean that computers are not just functional, but state of the art and 
      always moving forward (personal note, they did, the gnu+linux system is very robust, cant be 
      beat)
@@ -85,3 +85,35 @@
    - it discusses how FOSS software has a lower rnd cost (P1)
    use this paper to show the cost imporvements in spaces other than software space, showing how 
    its versitile, use at the end of paper
+
+** Collaborative, Code-Proximal Dynamic Software Visualization within Code Editors
+   - this paper talks about a peice of software made for VS code that helped visulize code
+   - it is licensed with apache 2.0
+   - page 8 shows how there tool of visulising code has made it easier for deveopers to work, with
+     up to 75% agreeing with this point
+   use this paper to show how developers like to work with open source software, that it is own the
+   bleeding edge, and that it is doing things others aren't, also talk about how it was built 
+   for the open source VS code
+
+* things
+** editors
+   lots of code editors are FOSS and developers will swear by their editor
+*** vscode 
+    - is an open source editor used by 73% of devs according to 
+      [https://survey.stackoverflow.co/2024/technology#1-integrated-development-environment]
+
+*** vim
+    - also an open source editor used by 21% of devs according to 
+      [https://survey.stackoverflow.co/2024/technology#1-integrated-development-environment]
+    - joke about how this paper was written with vim
+
+** OS
+   - linux distros make up a large chunk of devs according to the stackoverflow survey
+     [https://survey.stackoverflow.co/2024/technology#1-integrated-development-environment]
+
+** tools
+   this is for everything else
+*** Latex
+    used to make documentation, papers and so many other documents, has many open source 
+    implemetations, what this paper is written in.
+     
