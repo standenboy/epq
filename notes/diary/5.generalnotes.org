@@ -3,3 +3,7 @@
   - expect the project to grind to a halt at points, I will need to write about this so 
     it can go in my log
   - i must make a timetable for my epq to tell everyone what i need to do and when
+* notes from my talk with sir
+  - i asked sir if he thought the idea of setting a time frame for each section was wise, he 
+    thought that for a paper of such a topic, a liner approch like this sounds good and
+    effective
