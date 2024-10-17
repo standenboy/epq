@@ -1,0 +1,63 @@
+* time table for write-up
+** What is free software
+   This section needs to be strong and to the point as it is the first thing you see
+   it obviously needs to tell the reader what free software is
+   it should reference licenses and GNU documents
+   aim to complete by
+   (30/10/24)
+** A brief history of free software
+   This section should have alot of references, and shouldn't use to much technical language or if
+   it does it should tell the reader what it means
+   I could use a timeline perhaps here but that should be looked into
+   aim to complete by
+   (15/11/24)
+** Examples of free software
+   This section shouldn't be too long, it just needs to tell the user that they have probably 
+   already used free software in some sense. Include a lot of references to software
+   aim to complete by
+   (24/11/24)
+** Comparing free software to its proprietary counterparts
+   This should follow on from the previous section quite nicely, starting by showing of some 
+   proprietary and then show some graphs comparing it to open alternatives
+   aim to complete by
+   (10/12/24)
+** pause for a bit, look over what you've done
+   after this section, try to go over everything, add more references, spell check things, make 
+   things more concise and generally relax a little more
+   aim to have done this look over by
+   (23/12/24) 
+** What makes free software so appealing to developers
+   this is going to be the bulk of my information, where I really try and show off, lots of 
+   references to people who use free software and how it helps them, why its important to them
+   etc. etc.
+   Aim to complete by
+   (25/1/25)
+** What makes free software so appealing to privacy experts
+   exactly the same as the previous section, they should role quite nicely from one to the other
+   Aim to complete by
+   (15/2/25)
+** take another break
+   the previous 2 sections are going to be the most important in the entire paper, so take this 
+   time to improve upon them and make them the best they can be
+   aim to complete by
+   (27/2/25)
+** Where else if free software used and why
+   this should be a pretty brief section describing a few other examples, use the free software in
+   the energy sector and free software in libraries papers here
+   aim to complete by
+   (7/3/25)
+** What's next for the free software space
+   this is another short section, going over some interesting developments in the space, in
+   reference to privacy and development
+   aim to complete by
+   (18/3/25)
+** Final thoughts
+   this really only needs to be a few sentences that basically just says, free software is used
+   in these spaces because it clearly holds material advantage compared to other options
+   aim to complete by
+   (25/3/25)
+** fix everything that needs fixing
+   go over everything, spelling, grammar, references and more. Make sure it is clear, is within
+   the word count. Use this time to clean up the formatting, making it very pretty
+   aim to complete by
+   (WHEN EPQ IS DUE)
