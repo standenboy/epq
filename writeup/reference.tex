@@ -1,0 +1,55 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage{biblatex}
+\usepackage{geometry}
+\usepackage{titling}
+\usepackage{titlesec}
+\usepackage[english]{babel}
+\usepackage[hidelinks]{hyperref}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{forest}
+\usepackage{tikz-qtree}
+
+\addbibresource{ref.bib}
+
+\titleformat{\section}
+{\Huge}
+{}
+{0em}
+{}[\titlerule]
+\geometry{
+        a4paper,
+        total={170mm,257mm},
+        left=20mm,
+        right=20mm,
+}
+
+\author{Lucas Standen}
+\title{WORKING TITLE: Why FOSS software is preferred in the 
+development and privacy space?}
+
+
+\begin{document}
+\maketitle
+\newpage
+\tableofcontents
+\newpage
+
+{\setlength{\parindent}{0cm}
+
+\section{What is free software?}
+\section{A brief history of FOSS software}
+\section{Examples of free software}
+\section{Comparing free software to its proprietary counterparts}
+\section{What makes free software so appealing to developers?}
+\section{What makes free software so appealing to privacy experts?}
+\section{Where else is free software used and why?}
+\section{What's next for the free software space?}
+\section{Final thoughts}
+
+\newpage
+\printbibliography
+}
+\end{document}

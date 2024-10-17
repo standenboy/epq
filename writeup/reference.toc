@@ -1,0 +1,10 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}What is free software?}{3}{section.1}%
+\contentsline {section}{\numberline {2}A brief history of FOSS software}{3}{section.2}%
+\contentsline {section}{\numberline {3}Examples of free software}{3}{section.3}%
+\contentsline {section}{\numberline {4}Comparing free software to its proprietary counterparts}{3}{section.4}%
+\contentsline {section}{\numberline {5}What makes free software so appealing to developers?}{3}{section.5}%
+\contentsline {section}{\numberline {6}What makes free software so appealing to privacy experts?}{3}{section.6}%
+\contentsline {section}{\numberline {7}Where else is free software used and why?}{3}{section.7}%
+\contentsline {section}{\numberline {8}What's next for the free software space?}{3}{section.8}%
+\contentsline {section}{\numberline {9}Final thoughts}{3}{section.9}%
