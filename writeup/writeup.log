@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.1)  17 OCT 2024 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.10.1)  17 OCT 2024 12:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**reference.tex
-(./reference.tex
+**writeup.tex
+(./writeup.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -809,8 +809,8 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count466
 \@quotereset=\count467
-(./reference.aux)
-\openout1 = `reference.aux'.
+(./writeup.aux)
+\openout1 = `writeup.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
@@ -838,11 +838,11 @@ File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `reference.bcf'.
+\openout3 = `writeup.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'reference.bbl' found.
- (./reference.bbl)
+Package biblatex Info: ... file 'writeup.bbl' found.
+ (./writeup.bbl)
 Package biblatex Info: Reference section=0 on input line 34.
 Package biblatex Info: Reference segment=0 on input line 34.
 
@@ -881,9 +881,9 @@ Package biblatex Info: Reference segment=0 on input line 34.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 34.
-(./reference.out) (./reference.out)
+(./writeup.out) (./writeup.out)
 \@outlinefile=\write6
-\openout6 = `reference.out'.
+\openout6 = `writeup.out'.
 
 \c@lstlisting=\count468
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -911,35 +911,35 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 36.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./reference.toc)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./writeup.toc)
 \tf@toc=\write7
-\openout7 = `reference.toc'.
+\openout7 = `writeup.toc'.
 
  [2] [3]
 
 LaTeX Warning: Empty bibliography on input line 53.
 
-(./reference.aux)
+(./writeup.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `reference.out' has not changed.
+Package rerunfilecheck Info: File `writeup.out' has not changed.
 (rerunfilecheck)             Checksum: A19C3584F82896FA7F1DCE41B813E836;2215.
-Package logreq Info: Writing requests to 'reference.run.xml'.
-\openout1 = `reference.run.xml'.
+Package logreq Info: Writing requests to 'writeup.run.xml'.
+\openout1 = `writeup.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  38868 strings out of 476076
- 834536 string characters out of 5793775
+ 834474 string characters out of 5793775
  1931187 words of memory out of 5000000
  60500 multiletter control sequences out of 15000+600000
  560185 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,6n,101p,1608b,1810s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,6n,101p,1606b,1810s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on reference.pdf (3 pages, 47135 bytes).
+Output written on writeup.pdf (3 pages, 47135 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
