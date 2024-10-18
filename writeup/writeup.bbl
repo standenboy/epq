@@ -16,5 +16,60 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{FOSSdef}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1dfe179dc9301b7f9e2ce5c352009d00}{%
+           family={Stallman},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{fullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{bibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorbibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authornamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorfullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Free software, Free society}
+      \field{title}{The definition of Free Software}
+      \field{year}{1996}
+      \field{pages}{44\bibrangedash 47}
+      \range{pages}{4}
+    \endentry
+    \entry{GNUmaifesto}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1dfe179dc9301b7f9e2ce5c352009d00}{%
+           family={Stallman},
+           familyi={S\bibinitperiod},
+           given={Richard},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{fullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{bibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorbibnamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authornamehash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \strng{authorfullhash}{1dfe179dc9301b7f9e2ce5c352009d00}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Free software, Free society}
+      \field{title}{The GNU maifesto}
+      \field{year}{1984}
+      \field{pages}{33\bibrangedash 43}
+      \range{pages}{11}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

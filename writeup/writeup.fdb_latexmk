@@ -1,20 +1,23 @@
 # Fdb version 4
-["biber writeup"] 1729165737.60584 "writeup.bcf" "writeup.bbl" "writeup" 1729165744.21876 0
-  "writeup.bcf" 1729165743.97126 107694 dbde7571217d22797bd84e95a6105cc0 "pdflatex"
+["biber writeup"] 1729237166.06289 "writeup.bcf" "writeup.bbl" "writeup" 1729237176.00276 0
+  "ref.bib" 1729237150.84615 310 6925d14000bed7643481cd8f4366aac8 ""
+  "writeup.bcf" 1729237175.59602 107822 0d8fad6050d5227cf41e45d6c03c8e21 "pdflatex"
   (generated)
   "writeup.bbl"
   "writeup.blg"
   (rewritten before read)
-["pdflatex"] 1729165741.71817 "writeup.tex" "writeup.pdf" "writeup" 1729165744.21933 0
+["pdflatex"] 1729237173.31654 "writeup.tex" "writeup.pdf" "writeup" 1729237176.00462 0
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1727349926 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1727349926 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1727349926 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1727349926 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1727349926 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1727349926 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "/usr/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1727349926 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1727349926 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1727349926 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1727349926 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1727349926 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1727349926 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1727349926 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/share/texmf-dist/tex/generic/babel-english/english.ldf" 1727349926 7008 9ff5fdcc865b01beca2b0fe4a46231d4 ""
@@ -180,12 +183,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1727349926 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1727772120.4956 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1727771987 7112995 7933768d5ebcb328850d23523e531d79 ""
-  "writeup.aux" 1729165743.9646 1562 30e553176a3ea9f9622294f1dd9d8af2 "pdflatex"
-  "writeup.bbl" 1729165739.19796 466 ee04f40f768daeed26442158e95aba61 "biber writeup"
-  "writeup.out" 1729165743.96793 2215 a19c3584f82896fa7f1dce41b813e836 "pdflatex"
-  "writeup.run.xml" 1729165743.9746 2319 506c1b5fa918ae91afb2a783379dbdcd "pdflatex"
-  "writeup.tex" 1729165720.89472 1171 b8d03577e110603d8d57bf2140f400d9 ""
-  "writeup.toc" 1729165743.9746 872 f4079b35910d3bff582bb3ebfada0f73 "pdflatex"
+  "writeup.aux" 1729237175.58935 1942 0a37a951d75ad1b0274729a3ebbc13f7 "pdflatex"
+  "writeup.bbl" 1729237167.78939 2586 b6ada6b1200e52b09d187688acc05bfb "biber writeup"
+  "writeup.out" 1729237175.59269 2407 a23ed4e6f3e1cc90664c6810376ad1dc "pdflatex"
+  "writeup.run.xml" 1729237175.59602 2319 506c1b5fa918ae91afb2a783379dbdcd "pdflatex"
+  "writeup.tex" 1729237131.57626 2963 604ed15baee5f982847e430ad7265cd8 ""
+  "writeup.toc" 1729237175.59602 957 056716a1bc45fdae0827a9f427a214a8 "pdflatex"
   (generated)
   "writeup.aux"
   "writeup.bcf"
