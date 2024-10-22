@@ -1,11 +1,13 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}Used language in this paper}{3}{section.1}%
-\contentsline {section}{\numberline {2}What is Free Software?}{3}{section.2}%
-\contentsline {section}{\numberline {3}A brief history of FOSS software}{4}{section.3}%
-\contentsline {section}{\numberline {4}Examples of free software}{4}{section.4}%
-\contentsline {section}{\numberline {5}Comparing free software to its proprietary counterparts}{4}{section.5}%
-\contentsline {section}{\numberline {6}What makes free software so appealing to developers?}{4}{section.6}%
-\contentsline {section}{\numberline {7}What makes free software so appealing to privacy experts?}{4}{section.7}%
-\contentsline {section}{\numberline {8}Where else is free software used and why?}{4}{section.8}%
-\contentsline {section}{\numberline {9}What's next for the free software space?}{4}{section.9}%
-\contentsline {section}{\numberline {10}Final thoughts}{4}{section.10}%
+\contentsline {section}{\numberline {1}Using this document}{2}{section.1}%
+\contentsline {section}{\numberline {2}A brief introduction}{3}{section.2}%
+\contentsline {section}{\numberline {3}Used language in this paper}{3}{section.3}%
+\contentsline {section}{\numberline {4}What is Free Software?}{3}{section.4}%
+\contentsline {section}{\numberline {5}A brief history of FOSS Software}{5}{section.5}%
+\contentsline {section}{\numberline {6}Examples of Free Software}{5}{section.6}%
+\contentsline {section}{\numberline {7}Comparing Free Software to its proprietary counterparts}{5}{section.7}%
+\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{5}{section.8}%
+\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{5}{section.9}%
+\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{5}{section.10}%
+\contentsline {section}{\numberline {11}What's next for the Free Software space?}{5}{section.11}%
+\contentsline {section}{\numberline {12}Final thoughts}{5}{section.12}%

@@ -56,6 +56,11 @@
    in these spaces because it clearly holds material advantage compared to other options
    aim to complete by
    (25/3/25)
+** intro
+   get a nice little intro done, it can basically repeat the final thoughts section.
+   only needs to be a paragraph or two
+   aim to complete by
+   (3/4/25)
 ** fix everything that needs fixing
    go over everything, spelling, grammar, references and more. Make sure it is clear, is within
    the word count. Use this time to clean up the formatting, making it very pretty

@@ -11,6 +11,7 @@
 \usepackage{graphicx}
 \usepackage{forest}
 \usepackage{tikz-qtree}
+\usepackage{setspace}
 
 \addbibresource{ref.bib}
 
@@ -35,14 +36,26 @@ development and privacy space?}
 \maketitle
 
 \newpage
+
+\section{Using this document}
+This document is written using the {\LaTeX} text compiler. The compiler has set up clickable links,
+clickable references and a clickable table of contents, so please use these to your advantage. 
+The Tex source and Bib Tex bibliography is available for all at 
+\url{https://github.com/standenboy/epq/}.
+
 \tableofcontents
 \newpage
 
+\setlength{\parskip}{1em}
+
 {\setlength{\parindent}{0cm}
+
+\section{A brief introduction}
 
 \section{Used language in this paper}
 Throughout this paper I will use language specific to the field of computer science, and as such
 it makes sense to provide a brief overview for those who don't know what specific terms mean.
+
 \begin{description}
 	\item[Licenses] In this setting a license is a legal document that is distributed with
 		almost all modern software, which describes how someone can use a piece of software
@@ -55,28 +68,59 @@ it makes sense to provide a brief overview for those who don't know what specifi
 \end{description}
 
 \section{What is Free Software?}
-The free software movement is one that has been active for over 40 years \cite{GNUmaifesto}, it has
+The Free Software movement is one that has been active for over 40 years \cite{GNUmaifesto}, it has
 created some of the most important tools in computing that are used by billions on a daily basis. 
 It is so engraved in our lives, yet so few even know what the term means; In a simple note, it is
 software for a computer, phone or other device that can be used without violating the users 
 freedom.
 
-The definition of what violates a users freedom can vary depending on who you ask, but it was
-originally said as follows:
+The definition of what counts Free Software and what is software freedom can vary depending on who 
+you ask, but it was originally written that software that allows the following freedoms is 
+Free Software:
+
 \begin{description}
 	\item[0] The freedom to run a program for any purpose
 	\item[1] The freedom to study how a program works, and modify it to your needs
 	\item[2] The freedom to redistribute a piece of software
 	\item[3] The freedom to redistribute a edited version of software publicly
 \end{description}
-These freedoms were originally set down by Richard Stallman\cite{FOSSdef}.
-\section{A brief history of FOSS software}
-\section{Examples of free software}
-\section{Comparing free software to its proprietary counterparts}
-\section{What makes free software so appealing to developers?}
-\section{What makes free software so appealing to privacy experts?}
-\section{Where else is free software used and why?}
-\section{What's next for the free software space?}
+\textit{These freedoms were written by Richard Stallman\cite{FOSSdef} who is ever 
+	important in this space.}
+
+It is important that one does not confuse Free Software with software that is monetarily free, 
+this is known as Freeware. Free Software defends the users rights to use and modify software and
+is not focused on its cost.
+
+The main goal of Free Software is to allow the user to have as much freedom as possible when using 
+a piece of software for any purpose. This is in contrast to the traditional alternative, called
+Proprietary Software, which can be defined as software that the user cant edit modify or 
+redistribute without the original publishers permission. This kind of software intentionally 
+restricts the users freedom, usually for the purpose of profit or control of the software. Some 
+common examples of Proprietary Software, are Microsoft's windows, Apple's iOS, and Google's chrome
+web browser.
+
+One should also note the differences between Free Software and Open Source software. In open source
+software, like Free Software, the original code for a program is available to anyone, however
+in Open Source, this is to better the projects development and usability, whereas in Free Software
+it is to better the users freedom. They both use the same methods to achieve differing goals; this
+often leads them to be commonly used together, as the freedoms a user gets from Free Software is 
+much the same in Open Source software, and vice versa.
+
+Many people don't know that they already use Free Software\cite{COMMONfoss}, but often there core 
+tools are Free Software, or are reliant on it. A few examples of this are, Dovecot\cite{DOVECOT}; 
+an email server which some major email providers use and is Free Software and commonly used, 
+Krita\cite{KRITA}; a graphics design and art tool that is used frequently in animation, and other 
+digital art, is made and managed by the KDE foundation\cite{KDE}, who make exclusively Free 
+Software. A final example if Firefox\cite{FIREFOX} is a Free Software web browser made by Mozilla 
+that makes up 2.71\% of the browser market share, however in the past has had up to 
+30\%\cite{BROWSERmarketshare}.
+\section{A brief history of FOSS Software}
+\section{Examples of Free Software}
+\section{Comparing Free Software to its proprietary counterparts}
+\section{What makes Free Software so appealing to developers?}
+\section{What makes Free Software so appealing to privacy experts?}
+\section{Where else is Free Software used and why?}
+\section{What's next for the Free Software space?}
 \section{Final thoughts}
 
 \newpage
