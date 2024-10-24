@@ -33,6 +33,20 @@
       \endverb
       \keyw{FOSS}
     \endentry
+    \entry{BSDnet1}{online}{}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24/10/2024)}
+      \field{title}{BSD net 1}
+      \verb{urlraw}
+      \verb http://gunkies.org/wiki/Net/1
+      \endverb
+      \verb{url}
+      \verb http://gunkies.org/wiki/Net/1
+      \endverb
+      \keyw{Open Source,BSD}
+    \endentry
     \entry{DOVECOT}{online}{}
       \field{sortinit}{d}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
@@ -61,6 +75,44 @@
       \endverb
       \keyw{webbrowsers,FOSS,firefox}
     \endentry
+    \entry{BROWSERmarketshare}{online}{}
+      \field{sortinit}{f}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 22/10/2024)}
+      \field{title}{firefox market share}
+      \verb{urlraw}
+      \verb https://gs.statcounter.com/browser-market-share/all/worldwide/2009
+      \endverb
+      \verb{url}
+      \verb https://gs.statcounter.com/browser-market-share/all/worldwide/2009
+      \endverb
+      \keyw{webbrowsers}
+    \endentry
+    \entry{OPENletter}{article}{}
+      \name{author}{1}{}{%
+        {{hash=410c450973cfdb02178a99c11f63b9f5}{%
+           family={Gates},
+           familyi={G\bibinitperiod},
+           given={Bill},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{410c450973cfdb02178a99c11f63b9f5}
+      \strng{fullhash}{410c450973cfdb02178a99c11f63b9f5}
+      \strng{bibnamehash}{410c450973cfdb02178a99c11f63b9f5}
+      \strng{authorbibnamehash}{410c450973cfdb02178a99c11f63b9f5}
+      \strng{authornamehash}{410c450973cfdb02178a99c11f63b9f5}
+      \strng{authorfullhash}{410c450973cfdb02178a99c11f63b9f5}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Open letter to hobbyists}
+      \field{year}{1976}
+      \field{pages}{0-1}
+      \range{pages}{-1}
+      \warn{\item Range field 'pages' in entry 'OPENletter' is malformed, falling back to literal}
+    \endentry
     \entry{KRITA}{online}{}
       \field{sortinit}{k}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
@@ -74,6 +126,20 @@
       \verb https://krita.org/en/features/
       \endverb
       \keyw{art,graphics,FOSS,KDE}
+    \endentry
+    \entry{LINUXmarket}{online}{}
+      \field{sortinit}{l}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24/10/2024)}
+      \field{title}{linux market share}
+      \verb{urlraw}
+      \verb https://gs.statcounter.com/os-market-share/desktop/worldwide/
+      \endverb
+      \verb{url}
+      \verb https://gs.statcounter.com/os-market-share/desktop/worldwide/
+      \endverb
+      \keyw{Open Source,Linux,FOSS}
     \endentry
     \entry{FOSSdef}{article}{}
       \name{author}{1}{}{%
@@ -125,19 +191,33 @@
       \field{pages}{33\bibrangedash 43}
       \range{pages}{11}
     \endentry
-    \entry{BROWSERmarketshare}{online}{}
-      \field{sortinit}{S}
+    \entry{STEAMdeck}{online}{}
+      \field{sortinit}{s}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{labeltitlesource}{title}
       \field{addendum}{(accessed: 22/10/2024)}
-      \field{title}{Statcounter Global Stats}
+      \field{title}{steam deck gaming handheld}
       \verb{urlraw}
-      \verb https://gs.statcounter.com/browser-market-share/all/worldwide/2009
+      \verb https://www.steamdeck.com/en/software
       \endverb
       \verb{url}
-      \verb https://gs.statcounter.com/browser-market-share/all/worldwide/2009
+      \verb https://www.steamdeck.com/en/software
       \endverb
-      \keyw{webbrowsers}
+      \keyw{gaming,FOSS}
+    \endentry
+    \entry{GNUproject}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24/10/2024)}
+      \field{title}{The GNU project}
+      \verb{urlraw}
+      \verb https://www.gnu.org/gnu/gnu.html
+      \endverb
+      \verb{url}
+      \verb https://www.gnu.org/gnu/gnu.html
+      \endverb
+      \keyw{FOSS}
     \endentry
     \entry{KDE}{online}{}
       \field{sortinit}{T}
@@ -152,6 +232,20 @@
       \verb https://kde.org/
       \endverb
       \keyw{KDE,FOSS}
+    \endentry
+    \entry{LINUX}{online}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(accessed: 24/10/2024)}
+      \field{title}{The linux kernel}
+      \verb{urlraw}
+      \verb https://www.kernel.org/linux.html
+      \endverb
+      \verb{url}
+      \verb https://www.kernel.org/linux.html
+      \endverb
+      \keyw{Open Source,Linux,FOSS}
     \endentry
   \enddatalist
 \endrefsection

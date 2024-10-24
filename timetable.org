@@ -14,6 +14,8 @@
    I could use a timeline perhaps here but that should be looked into
    aim to complete by
    (15/11/24)
+   a very poorly writen first draft compleated on (24/10/24), it needs alittle more info in it. and
+   alot of grammar checking
 ** Examples of free software
    This section shouldn't be too long, it just needs to tell the user that they have probably 
    already used free software in some sense. Include a lot of references to software
