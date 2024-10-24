@@ -5,6 +5,8 @@
    it should reference licenses and GNU documents
    aim to complete by
    (30/10/24)
+   started on (17/10/24)
+   first draft finished on (22/10/24)
 ** A brief history of free software
    This section should have alot of references, and shouldn't use to much technical language or if
    it does it should tell the reader what it means
