@@ -5,12 +5,17 @@
    it should reference licenses and GNU documents
    aim to complete by
    (30/10/24)
+   started on (17/10/24)
+   first draft finished on (22/10/24)
+   moving on to section 2 now, as i feel confident that this section is quite well rounded. (24/10/24)
 ** A brief history of free software
    This section should have alot of references, and shouldn't use to much technical language or if
    it does it should tell the reader what it means
    I could use a timeline perhaps here but that should be looked into
    aim to complete by
    (15/11/24)
+   a very poorly writen first draft compleated on (24/10/24), it needs alittle more info in it. and
+   alot of grammar checking
 ** Examples of free software
    This section shouldn't be too long, it just needs to tell the user that they have probably 
    already used free software in some sense. Include a lot of references to software
@@ -56,6 +61,11 @@
    in these spaces because it clearly holds material advantage compared to other options
    aim to complete by
    (25/3/25)
+** intro
+   get a nice little intro done, it can basically repeat the final thoughts section.
+   only needs to be a paragraph or two
+   aim to complete by
+   (3/4/25)
 ** fix everything that needs fixing
    go over everything, spelling, grammar, references and more. Make sure it is clear, is within
    the word count. Use this time to clean up the formatting, making it very pretty

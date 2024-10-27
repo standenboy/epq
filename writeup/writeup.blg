@@ -1,9 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'writeup.blg'
-[174] biber:340> INFO - === Thu Oct 17, 2024, 12:48:58
-[203] Biber.pm:419> INFO - Reading 'writeup.bcf'
-[342] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[376] bbl.pm:660> INFO - Writing 'writeup.bbl' with encoding 'UTF-8'
-[377] bbl.pm:763> INFO - Output to writeup.bbl
-[377] Biber.pm:131> WARN - The file 'writeup.bcf' does not contain any citations!
-[377] Biber.pm:133> INFO - WARNINGS: 1
+[1] Config.pm:310> INFO - Logfile is 'writeup.blg'
+[371] biber:340> INFO - === Thu Oct 24, 2024, 13:06:17
+[423] Biber.pm:419> INFO - Reading 'writeup.bcf'
+[668] Biber.pm:979> INFO - Found 14 citekeys in bib section 0
+[730] Biber.pm:4419> INFO - Processing section 0
+[774] Biber.pm:4610> INFO - Looking for bibtex file 'ref.bib' for section 0
+[776] bibtex.pm:1713> INFO - LaTeX decoding ...
+[825] bibtex.pm:1519> INFO - Found BibTeX data source 'ref.bib'
+[1101] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1103] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1103] Biber.pm:4239> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[1103] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1156] bbl.pm:660> INFO - Writing 'writeup.bbl' with encoding 'UTF-8'
+[1166] bbl.pm:763> INFO - Output to writeup.bbl
+[1169] Biber.pm:131> WARN - Range field 'pages' in entry 'OPENletter' is malformed, falling back to literal
+[1169] Biber.pm:133> INFO - WARNINGS: 1

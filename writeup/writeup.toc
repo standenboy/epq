@@ -1,10 +1,13 @@
 \babel@toc {english}{}\relax 
-\contentsline {section}{\numberline {1}What is free software?}{3}{section.1}%
-\contentsline {section}{\numberline {2}A brief history of FOSS software}{3}{section.2}%
-\contentsline {section}{\numberline {3}Examples of free software}{3}{section.3}%
-\contentsline {section}{\numberline {4}Comparing free software to its proprietary counterparts}{3}{section.4}%
-\contentsline {section}{\numberline {5}What makes free software so appealing to developers?}{3}{section.5}%
-\contentsline {section}{\numberline {6}What makes free software so appealing to privacy experts?}{3}{section.6}%
-\contentsline {section}{\numberline {7}Where else is free software used and why?}{3}{section.7}%
-\contentsline {section}{\numberline {8}What's next for the free software space?}{3}{section.8}%
-\contentsline {section}{\numberline {9}Final thoughts}{3}{section.9}%
+\contentsline {section}{\numberline {1}Using this document}{2}{section.1}%
+\contentsline {section}{\numberline {2}A brief introduction}{3}{section.2}%
+\contentsline {section}{\numberline {3}Used language in this paper}{3}{section.3}%
+\contentsline {section}{\numberline {4}What is Free Software?}{3}{section.4}%
+\contentsline {section}{\numberline {5}A brief history of FOSS}{4}{section.5}%
+\contentsline {section}{\numberline {6}Examples of Free Software}{6}{section.6}%
+\contentsline {section}{\numberline {7}Comparing Free Software to its proprietary counterparts}{6}{section.7}%
+\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{6}{section.8}%
+\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{6}{section.9}%
+\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{6}{section.10}%
+\contentsline {section}{\numberline {11}What's next for the Free Software space?}{6}{section.11}%
+\contentsline {section}{\numberline {12}Final thoughts}{6}{section.12}%

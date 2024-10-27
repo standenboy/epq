@@ -11,6 +11,7 @@
 \usepackage{graphicx}
 \usepackage{forest}
 \usepackage{tikz-qtree}
+\usepackage{setspace}
 
 \addbibresource{ref.bib}
 
@@ -19,12 +20,7 @@
 {}
 {0em}
 {}[\titlerule]
-\geometry{
-        a4paper,
-        total={170mm,257mm},
-        left=20mm,
-        right=20mm,
-}
+\geometry{a4paper,total={170mm,257mm},left=25mm,right=25mm,}
 
 \author{Lucas Standen}
 \title{WORKING TITLE: Why FOSS software is preferred in the 
@@ -33,20 +29,135 @@ development and privacy space?}
 
 \begin{document}
 \maketitle
+
 \newpage
+
+\section{Using this document}
+This document is written using the {\LaTeX} text compiler. The compiler has set up clickable links,
+clickable references and a clickable table of contents, so please use these to your advantage. 
+The Tex source and Bib Tex bibliography is available for all at 
+\url{https://github.com/standenboy/epq/}.
+
 \tableofcontents
 \newpage
 
+\setlength{\parskip}{1em}
+
 {\setlength{\parindent}{0cm}
 
-\section{What is free software?}
-\section{A brief history of FOSS software}
-\section{Examples of free software}
-\section{Comparing free software to its proprietary counterparts}
-\section{What makes free software so appealing to developers?}
-\section{What makes free software so appealing to privacy experts?}
-\section{Where else is free software used and why?}
-\section{What's next for the free software space?}
+\section{A brief introduction}
+
+\section{Used language in this paper}
+Throughout this paper I will use language specific to the field of computer science, and as such
+it makes sense to provide a brief overview for those who don't know what specific terms mean.
+
+\begin{description}
+	\item[Licenses] In this setting a license is a legal document that is distributed with
+		almost all modern software, which describes how someone can use a piece of software
+	\item[Free Software] This term refers to software under specific licenses, making them 
+		free for the user to use (free as in freedom, not the monetary cost). This will
+		be covered further in the next section.
+	\item[Open Source] This term refers to a piece of software, where the original code for it
+		is publicly available. This too will be covered further in the next section.
+	\item[FOSS] An acronym for "Free and Open Source Software".
+\end{description}
+
+\section{What is Free Software?}
+The Free Software movement is one that has been active for over 40 years \cite{GNUmaifesto}, it has
+created some of the most important tools in computing that are used by billions on a daily basis. 
+It is so engraved in our lives, yet so few even know what the term means; In a simple note, it is
+software for a computer, phone or other device that can be used without violating the users 
+freedom.
+
+The definition of what counts Free Software and what is software freedom can vary depending on who 
+you ask, but it was originally written that software that allows the following freedoms is 
+Free Software:
+
+\begin{description}
+	\item[0] The freedom to run a program for any purpose
+	\item[1] The freedom to study how a program works, and modify it to your needs
+	\item[2] The freedom to redistribute a piece of software
+	\item[3] The freedom to redistribute a edited version of software publicly
+\end{description}
+\textit{These freedoms were written by Richard Stallman\cite{FOSSdef} who is ever 
+	important in this space.}
+
+It is important that one does not confuse Free Software with software that is monetarily free, 
+this is known as Freeware. Free Software defends the users rights to use and modify software and
+is not focused on its cost.
+
+One should also note the differences between Free Software and Open Source software. In Open Source
+software, like Free Software, the original code for a program is available to anyone, however
+in Open Source, this is to better the projects development and usability, whereas in Free Software
+it is to better the users freedom. They both use the same methods to achieve differing goals; this
+often leads them to be commonly used together, as the benefits a user gets from Free Software is 
+much the same in Open Source software, and vice versa.
+
+The main goal of Free Software is to allow the user to have as much freedom as possible when using 
+a piece of software for any purpose. This is in contrast to the traditional alternative, called
+Proprietary Software, which can be defined as software that the user can not edit, modify or 
+redistribute without the original publishers permission. This kind of software intentionally 
+restricts the users freedom, usually for the purpose of profit or control of the software. Some 
+common examples of Proprietary Software, are Microsoft's \textit{Windows}, Apple's \textit{iOS}, 
+and Google's \textit{Chrome} web browser.
+
+Many people don't know that they already use Free Software\cite{COMMONfoss}, but often the tools
+they use most often are Free Software. A few examples of this are, Krita\cite{KRITA}; a graphics 
+design and art tool that is used frequently in animation, and other digital art, is made and 
+managed by the KDE foundation\cite{KDE}, who make exclusively Free Software. Dovecot\cite{DOVECOT}; 
+an email server which some major email providers use and is Free Software and commonly used, 
+ A final example is Firefox\cite{FIREFOX} a Free Software web browser made by Mozilla that 
+makes up 2.71\% of the browser market share as of 2024, however in the past has had up to 
+30\%\cite{BROWSERmarketshare}.These are all more modern examples of Free Software, however over 
+the past 40 years, there have been countless others. 
+\section{A brief history of FOSS}
+The term Free Software was first coined by Richard Stallman in 1983\cite{GNUproject}, however even
+before this, examples of Free Software (and the disapproval of Proprietary Software), were already
+starting to show. 
+
+One of the earliest examples of this, was Microsoft's \textit{An open letter to hobbyists}, which
+was written by Bill Gates in 1976. This letter detailed that people had been stealing from 
+Microsoft, as many people had brought hardware through them, but far fewer people had brought the
+software. The fact this was happening at a scale large enough to cause this showed how many 
+computing groups, also known as hacker groups/spaces, weren't willing to pay for the software they
+used, believing that if they brought the hardware they had done all that was needed\cite{OPENletter}. 
+It is often believed that this is one of the first examples of \textit{hacker culture}, which 
+would become more common into the 80's and 90's.
+
+A key figure in \textit{hacker culture}, as previously mentioned, was Richard Stallman. In the 
+early 1980's he left his job at MIT to work full time on the GNU project, which was designed
+to be a full recreation of AT\&T's Unix operating system from the ground up. The idea was to allow
+anyone access to a Unix like machine without paying AT\&T's expensive license fees, and allow any
+user to view it, redistribute or edit; it was to be the first fully free operating system. The
+early development of GNU was relatively slow, and it was not a completely free system for many
+years, as some core parts of the operating system were missing, meaning non-free alternatives had 
+to be used. However this would later change in 1991.
+
+In 1988 BSD Net1 would release\cite{BSDnet1}, this was the first fully open version of the Berkeley 
+Software Distribution version of Unix. It had completely rewritten all the code from the original 
+Unix that previous versions contained, meaning it was now completely free from AT\&T's licenses.
+It would be the start of a long linage of open source operating systems which are now the base
+of MacOS, FreeBSD and OpenBSD.
+
+The GNU project, while still not fully finished, saw the final piece of the puzzle when 
+Linux\cite{LINUX} released in 1991, it was a fully open kernel which GNU was still lacking (however 
+it did get its own kernel called GNU hurd but Linux is far more commonly used). With GNU and Linux 
+paired together a user could finally get a fully free operating system for general use, this 
+combination of software is still in use today, having a 4.7\% market share globally on desktop
+computers\cite{LINUXmarket}, And on web servers it is dominant. In recent years it has also shown
+some use in gaming, with it being the operating system used by Valves \textit{steam deck} gaming 
+handheld\cite{STEAMdeck}.
+
+Since Linux's release there haven't been as many major events, however there has been a slow tick
+in development, with a large jump over Covid, with Free Software now being completely usable against
+its Proprietary counterpart.
+
+\section{Examples of Free Software}
+\section{Comparing Free Software to its proprietary counterparts}
+\section{What makes Free Software so appealing to developers?}
+\section{What makes Free Software so appealing to privacy experts?}
+\section{Where else is Free Software used and why?}
+\section{What's next for the Free Software space?}
 \section{Final thoughts}
 
 \newpage
