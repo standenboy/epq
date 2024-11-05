@@ -21,6 +21,11 @@
    already used free software in some sense. Include a lot of references to software
    aim to complete by
    (24/11/24)
+   after reading through everything ive already writen, i dont think this section is needed, so as
+   of right now i will be skipping it. (5/11/24)
+   as of this point on, this section is renamed to "how is freesoftware developed. it will talk alitte
+   on why developers like this method
+
 ** Comparing free software to its proprietary counterparts
    This should follow on from the previous section quite nicely, starting by showing of some 
    proprietary and then show some graphs comparing it to open alternatives
