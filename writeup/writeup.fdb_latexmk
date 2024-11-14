@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex writeup"] 1730800287.33837 "writeup.aux" "writeup.bbl" "writeup" 1730800614.53408 0
+["bibtex writeup"] 1730983039.50234 "writeup.aux" "writeup.bbl" "writeup" 1730984033.25883 0
   "./ref.bib" 1730800135.34935 2808 cb45f6f0d6c8fc7a01f6dec7da34ecc8 ""
-  "./writeup-blx.bib" 1730800613.9601 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad ""
+  "./writeup-blx.bib" 1730984032.6827 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad ""
   "/usr/share/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1716913806 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "writeup.aux" 1730800613.9501 5086 453cfc71a93b2aab573b1558eb3907d9 "pdflatex"
+  "writeup.aux" 1730984032.67603 5012 31119f8ecdfc1c83ba7183bce1c3e0d4 "pdflatex"
   (generated)
   "writeup.bbl"
   "writeup.blg"
   (rewritten before read)
-["pdflatex"] 1730800611.48175 "writeup.tex" "writeup.pdf" "writeup" 1730800614.5346 0
+["pdflatex"] 1730984030.18262 "writeup.tex" "writeup.pdf" "writeup" 1730984033.2593 0
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1716913806 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1716913806 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1716913806 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -198,12 +198,12 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716913806 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1730658423.18832 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1730658201 7112994 9d4924620ce3a1f6c79d5b270c18204c ""
-  "writeup.aux" 1730800613.9501 5086 453cfc71a93b2aab573b1558eb3907d9 "pdflatex"
-  "writeup.bbl" 1730800287.45186 6285 6c3bf17b124a9e5469039411fd2ef1e0 "bibtex writeup"
-  "writeup.out" 1730800613.95676 2684 1b08405d2875b7ea24639f75541af87b "pdflatex"
-  "writeup.run.xml" 1730800613.9601 2542 d73389705b0345818622c0b005029a80 "pdflatex"
-  "writeup.tex" 1730800610.57678 10547 657b7fc5467d501bae9d65215e65f4c1 ""
-  "writeup.toc" 1730800613.9601 1108 b7b5196e0a849968c110f48495310738 "pdflatex"
+  "writeup.aux" 1730984032.67603 5012 31119f8ecdfc1c83ba7183bce1c3e0d4 "pdflatex"
+  "writeup.bbl" 1730983039.61141 6285 6c3bf17b124a9e5469039411fd2ef1e0 "bibtex writeup"
+  "writeup.out" 1730984032.67936 2684 1b08405d2875b7ea24639f75541af87b "pdflatex"
+  "writeup.run.xml" 1730984032.68603 2542 08a4df09627b86e62769e7bcc76f8c2d "pdflatex"
+  "writeup.tex" 1730984029.91604 10681 a2cf497f389fe66949772f65ce453719 ""
+  "writeup.toc" 1730984032.68603 1108 b7b5196e0a849968c110f48495310738 "pdflatex"
   (generated)
   "writeup-blx.bib"
   "writeup.aux"

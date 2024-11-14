@@ -25,6 +25,8 @@
    of right now i will be skipping it. (5/11/24)
    as of this point on, this section is renamed to "how is freesoftware developed. it will talk alitte
    on why developers like this method
+   Made a first draft on this section, quite happy with it, although id like to add more detail at some
+   point soon. (5/11/24)
 
 ** Comparing free software to its proprietary counterparts
    This should follow on from the previous section quite nicely, starting by showing of some 
