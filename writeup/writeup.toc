@@ -4,10 +4,12 @@
 \contentsline {section}{\numberline {3}Used language in this paper}{3}{section.3}%
 \contentsline {section}{\numberline {4}What is Free Software?}{3}{section.4}%
 \contentsline {section}{\numberline {5}A brief history of FOSS}{4}{section.5}%
-\contentsline {section}{\numberline {6}How is Free Software developed}{5}{section.6}%
-\contentsline {section}{\numberline {7}Comparing Free Software to its proprietary counterparts}{6}{section.7}%
+\contentsline {section}{\numberline {6}How is Free Software developed?}{5}{section.6}%
+\contentsline {section}{\numberline {7}Comparing Free Software to its Proprietary counterparts}{6}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Programming IDE's}{6}{subsection.7.1}%
 \contentsline {subsection}{\numberline {7.2}Web Browsers}{6}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Office Software}{7}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}General conclusions}{8}{subsection.7.4}%
 \contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{8}{section.8}%
 \contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{8}{section.9}%
 \contentsline {section}{\numberline {10}Where else is Free Software used and why?}{8}{section.10}%
