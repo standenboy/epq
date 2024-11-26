@@ -6,8 +6,9 @@
 \contentsline {section}{\numberline {5}A brief history of FOSS}{4}{section.5}%
 \contentsline {section}{\numberline {6}How is Free Software developed}{5}{section.6}%
 \contentsline {section}{\numberline {7}Comparing Free Software to its proprietary counterparts}{6}{section.7}%
-\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{6}{section.8}%
-\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{6}{section.9}%
-\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{6}{section.10}%
-\contentsline {section}{\numberline {11}What's next for the Free Software space?}{6}{section.11}%
-\contentsline {section}{\numberline {12}Final thoughts}{6}{section.12}%
+\contentsline {subsection}{\numberline {7.1}Programming IDE's}{6}{subsection.7.1}%
+\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{7}{section.8}%
+\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{7}{section.9}%
+\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{7}{section.10}%
+\contentsline {section}{\numberline {11}What's next for the Free Software space?}{7}{section.11}%
+\contentsline {section}{\numberline {12}Final thoughts}{7}{section.12}%

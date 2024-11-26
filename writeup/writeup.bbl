@@ -145,6 +145,19 @@
     \endverb
   \endentry
 
+  \entry{IDEusage}{online}{}
+    \keyw{Open Source, IDE, FOSS}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{addendum}{(accessed: 14/11/2024)}
+    \field{title}{Stack overflow IDE usage}
+    \verb{url}
+    \verb https://survey.stackoverflow.co/2024/technology#1-integrated-developm
+    \verb ent-environment
+    \endverb
+  \endentry
+
   \entry{FOSSdef}{article}{}
     \name{author}{1}{}{%
       {{hash=SR}{%
@@ -232,6 +245,18 @@
     \field{title}{The linux kernel}
     \verb{url}
     \verb https://www.kernel.org/linux.html
+    \endverb
+  \endentry
+
+  \entry{VSCODEvsintellij}{online}{}
+    \keyw{Open Source, intellij, vscode, FOSS}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{addendum}{(accessed: 24/10/2024)}
+    \field{title}{VS Code compared to intellij}
+    \verb{url}
+    \verb https://vscode.io/alternatives/jetbrains-intellij-idea/
     \endverb
   \endentry
 \enddatalist
