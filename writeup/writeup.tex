@@ -15,6 +15,8 @@
 
 \addbibresource{ref.bib}
 
+\graphicspath{ {./images} }
+
 \titleformat{\section}
 {\Huge}
 {}
@@ -23,8 +25,7 @@
 \geometry{a4paper,total={170mm,257mm},left=25mm,right=25mm,}
 
 \author{Lucas Standen}
-\title{WORKING TITLE: Why FOSS software is preferred in the 
-development and privacy space?}
+\title{Why FOSS software is preferred in the development and privacy space?}
 
 
 \begin{document}
@@ -184,7 +185,7 @@ will look at programming IDE's, web browsers, and office software, as there make
 of software, that are used by the majority of computer users.
 
 \subsection{Programming IDE's}
-\textit{An IDE is an integrated development environment}
+\textit{An \textbf{IDE} is an \textbf{I}ntegrated \textbf{D}evelopment \textbf{E}nvironment}
 
 The main IDE's used by developers are Free Software, but there are a few Non-free ones that are used.
 To compare text editors, one can look at \textit{Vs Code} as an example of open software, with 73\% of 
@@ -194,9 +195,38 @@ software, with 26\% of developers claiming to have used it at some point\cite{ID
 These tools are both commonly used personally and professionally, and are of a similar size, making them
 ideal to compare. On the performance side of the argument, VS Code has Intellij beat, being faster to open
 and generally more lightweight than Intellij, this has been put up to the fact that VS Code is written in 
-javascript, which is faster than java, which is what Intellij is written in\cite{VSCODEvsintellij}.
+JavaScript, which is faster than Java, which is what Intellij is written in\cite{VSCODEvsintellij}.
 
-On the usablity side, things are more even, both editors have features that makes them advantages.
+On the usability side, things are more even, both editors have features that makes them better than each other,
+each of them have plug-ins support, advanced text editing features and each have auto completion. However in this
+sense VS Code still generally comes ahead, with its more main stream user base, more gets made for it, and as
+it is Open Source easier for users to add features, in the for of patches, and in the form of plug-ins, although
+no definite numbers are available on exact plug-in counts publicly, VS Code is most defiantly ahead.
+
+\subsection{Web Browsers}
+To compare web browsers, one can look at two commonly used browsers, Google Chrome, and Firefox. Both of these
+are known projects, that are used by billions every day, one can look at their performance and usability to compare
+these projects. 
+
+\begin{figure}[h]
+	\caption{Comparing speed of browsers, time \textit{(lower is better)}}
+	\includegraphics[width=\textwidth]{webbrowserperfomace.png}
+	\center{\cite{BROWSERperformace}}
+\end{figure}
+
+This graph denotes each browsers performance in encryption and decryption, while not fully representative of all use 
+cases, it is one of many things that goes into the final speed of the browser. As the graph shows, Firefox's FOSS 
+implementation of JavaScript has lead to a faster final product, most likely as more people have had eyes on the code, 
+and suggested optimizations over the past 20 years. On the front of performance it is clear that the FOSS tool has beaten 
+the Proprietary counterpart.
+
+In respect to usability things come more to user preference, so what one needs to look at, is customizability; the ability 
+to make a piece of software exactly fit their needs. In this yet again Firefox wins out, while both Firefox and Google Chrome 
+have plug-in capability's, Firefox is known for its completely open system to them, allowing any and all extensions to be
+used. In contrast google limits what can be used via the "manifest" documents, this series of documents describes what is
+and isn't allowed in the Chrome browser, and is significant as it holds a large market share. The most recent one of these
+documents, manifest V3\cite{MANIFESTv3}, has come under many eyes, as it will disallow ad blockers, and other extensions that selectively
+remove content from web pages.
 
 \section{What makes Free Software so appealing to developers?}
 \section{What makes Free Software so appealing to privacy experts?}

@@ -145,6 +145,19 @@
     \endverb
   \endentry
 
+  \entry{MANIFESTv3}{online}{}
+    \keyw{Chrome, Google, manifest v3}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{addendum}{(accessed: 26/11/2024)}
+    \field{title}{Manifest V3}
+    \verb{url}
+    \verb https://developer.chrome.com/docs/extensions/develop/migrate/what-is-
+    \verb mv3
+    \endverb
+  \endentry
+
   \entry{IDEusage}{online}{}
     \keyw{Open Source, IDE, FOSS}
     \field{labeltitlesource}{title}
@@ -258,6 +271,57 @@
     \verb{url}
     \verb https://vscode.io/alternatives/jetbrains-intellij-idea/
     \endverb
+  \endentry
+
+  \entry{BROWSERperformace}{article}{}
+    \name{author}{5}{}{%
+      {{hash=YY}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Ye},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CCM}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={Chen-Mou},
+         giveni={C\bibinithyphendelim M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kiyomoto},
+         familyi={K\bibinitperiod},
+         given={Shinsaku},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Miyake},
+         familyi={M\bibinitperiod},
+         given={Yutaka},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=TT}{%
+         family={Takagi},
+         familyi={T\bibinitperiod},
+         given={Tsuyoshi},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YY+1}
+    \strng{fullhash}{YYCCMKSMYTT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{Y}
+    \field{sortinithash}{Y}
+    \verb{doi}
+    \verb 10.15803/ijnc.6.2_309
+    \endverb
+    \field{pages}{309\bibrangedash 327}
+    \field{title}{Portable Implementation of Lattice-based Cryptography using
+  JavaScript}
+    \field{volume}{6}
+    \field{journaltitle}{International Journal of Networking and Computing}
+    \field{month}{01}
+    \field{year}{2016}
   \endentry
 \enddatalist
 \endinput
