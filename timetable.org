@@ -1,5 +1,5 @@
 * time table for write-up
-** What is free software
+** What is free software 
    This section needs to be strong and to the point as it is the first thing you see
    it obviously needs to tell the reader what free software is
    it should reference licenses and GNU documents
@@ -27,12 +27,15 @@
    on why developers like this method
    Made a first draft on this section, quite happy with it, although id like to add more detail at some
    point soon. (5/11/24)
-
+   Happy with it, marking as done (26/11/24)
 ** Comparing free software to its proprietary counterparts
    This should follow on from the previous section quite nicely, starting by showing of some 
    proprietary and then show some graphs comparing it to open alternatives
    aim to complete by
    (25/11/24)
+   initial work started in early november
+   about 2/3 done at (26/11/24) will aim to finish in this session
+
 ** pause for a bit, look over what you've done
    after this section, try to go over everything, add more references, spell check things, make 
    things more concise and generally relax a little more
