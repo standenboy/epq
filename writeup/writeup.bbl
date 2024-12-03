@@ -316,7 +316,8 @@
     \verb 10.15803/ijnc.6.2_309
     \endverb
     \field{pages}{309\bibrangedash 327}
-    \field{title}{Portable Implementation of Lattice-based Cryptography using JavaScript}
+    \field{title}{Portable Implementation of Lattice-based Cryptography using
+  JavaScript}
     \field{volume}{6}
     \field{journaltitle}{International Journal of Networking and Computing}
     \field{month}{01}
