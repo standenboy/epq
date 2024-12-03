@@ -7,11 +7,11 @@
 \contentsline {section}{\numberline {6}How is Free Software developed?}{5}{section.6}%
 \contentsline {section}{\numberline {7}Comparing Free Software to its Proprietary counterparts}{6}{section.7}%
 \contentsline {subsection}{\numberline {7.1}Programming IDE's}{6}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Web Browsers}{6}{subsection.7.2}%
-\contentsline {subsection}{\numberline {7.3}Office Software}{7}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.2}Web Browsers}{7}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Office Software}{8}{subsection.7.3}%
 \contentsline {subsection}{\numberline {7.4}General conclusions}{8}{subsection.7.4}%
-\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{8}{section.8}%
-\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{8}{section.9}%
-\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{8}{section.10}%
-\contentsline {section}{\numberline {11}What's next for the Free Software space?}{8}{section.11}%
-\contentsline {section}{\numberline {12}Final thoughts}{8}{section.12}%
+\contentsline {section}{\numberline {8}What makes Free Software so appealing to developers?}{9}{section.8}%
+\contentsline {section}{\numberline {9}What makes Free Software so appealing to privacy experts?}{9}{section.9}%
+\contentsline {section}{\numberline {10}Where else is Free Software used and why?}{9}{section.10}%
+\contentsline {section}{\numberline {11}What's next for the Free Software space?}{9}{section.11}%
+\contentsline {section}{\numberline {12}Final thoughts}{9}{section.12}%
