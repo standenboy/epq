@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex writeup"] 1733399903.38482 "writeup.aux" "writeup.bbl" "writeup" 1733399906.72914 0
-  "./ref.bib" 1733218791.42937 3891 2d97910a0b29867e78b41565a4ec5a05 ""
-  "./writeup-blx.bib" 1733399906.13955 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad ""
+["bibtex writeup"] 1733402799.74124 "writeup.aux" "writeup.bbl" "writeup" 1733404442.5039 0
+  "./ref.bib" 1733402790.57958 3891 2d97910a0b29867e78b41565a4ec5a05 ""
+  "./writeup-blx.bib" 1733404441.90714 342 5ba7332ec7ecc2dc9c6b1bd96e3d9aad ""
   "/usr/share/texmf-dist/bibtex/bst/biblatex/biblatex.bst" 1731436073 65484 b7949c47a88ed6dca66ebc7a04577312 ""
-  "writeup.aux" 1733399906.13288 6785 60946724e833c2ba7680587aeec1eaab "pdflatex"
+  "writeup.aux" 1733404441.90047 6903 7c4ba517dea59da4633401b928a8ff21 "pdflatex"
   (generated)
   "writeup.bbl"
   "writeup.blg"
   (rewritten before read)
-["pdflatex"] 1733399903.51201 "writeup.tex" "writeup.pdf" "writeup" 1733399906.72965 0
+["pdflatex"] 1733404439.24569 "writeup.tex" "writeup.pdf" "writeup" 1733404442.50445 0
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1731436073 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1731436073 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbxti10.tfm" 1731436073 1532 9162035f4e7176612125649e348e2195 ""
@@ -198,15 +198,15 @@
   "/usr/share/texmf-dist/tex/latex/url/url.sty" 1731436073 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1731436073 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1731436073 41588 b43d3e860a4f94167ee1e725ff526a72 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1731575188.12666 5312047 b07fcd2a9090df96fc745b92a3db793b ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1731575086 7113016 d5287dfb1ef2f8cf8da3171762d299de ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1733400881.05667 5312047 b07fcd2a9090df96fc745b92a3db793b ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1733400774 7112986 c51af0612404955ba1a41028d42d7a94 ""
   "images/webbrowserperfomace.png" 1732612631.82518 19539 0b749d5ffa95383662be843ab72f2e7d ""
-  "writeup.aux" 1733399906.13288 6785 60946724e833c2ba7680587aeec1eaab "pdflatex"
-  "writeup.bbl" 1733399903.49949 8793 0b0e1f32ba3b6ecec373ff3b86031744 "bibtex writeup"
-  "writeup.out" 1733399906.13621 3248 c9a7a2530608cb93eb992e90b37d2abd "pdflatex"
-  "writeup.run.xml" 1733399906.14288 2542 08a4df09627b86e62769e7bcc76f8c2d "pdflatex"
-  "writeup.tex" 1733399798.784 17414 324c970b16d14d1b5fca80be1bb01f93 ""
-  "writeup.toc" 1733399906.14288 1436 7a454b4f525fb6fb17397e914f268fd4 "pdflatex"
+  "writeup.aux" 1733404441.90047 6903 7c4ba517dea59da4633401b928a8ff21 "pdflatex"
+  "writeup.bbl" 1733402799.84977 8793 0b0e1f32ba3b6ecec373ff3b86031744 "bibtex writeup"
+  "writeup.out" 1733404441.9038 3361 feba98adb2ddfb3c68f672d8ae51b27b "pdflatex"
+  "writeup.run.xml" 1733404441.91047 2542 08a4df09627b86e62769e7bcc76f8c2d "pdflatex"
+  "writeup.tex" 1733404439.05708 19856 9522f97eb9377e859ee4b4c7eaf073bd ""
+  "writeup.toc" 1733404441.91047 1513 16fc852dd3a1add50c0faf1669c7e2ef "pdflatex"
   (generated)
   "writeup-blx.bib"
   "writeup.aux"
